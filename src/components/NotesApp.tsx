@@ -73,7 +73,7 @@ export function NotesApp() {
                 <FileText className="h-5 w-5 text-primary-foreground" />
               </div>
               <h1 className="text-xl font-semibold bg-gradient-primary bg-clip-text text-transparent">
-                Notes
+                ZaxSky Notes
               </h1>
             </div>
             <Button
